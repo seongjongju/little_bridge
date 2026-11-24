@@ -24,7 +24,6 @@ const Hero = () => {
         <section id='hero'>
             <div className='hero__inner' ref={heroInnerRef}>
                 <div className='hero__info'>
-                    <p className='hero__chip'>A LITTLE BRIDGE TO A BIGGER WORLD</p>
                     <h1 className='hero__title'>
                         영어와 친해지는 <br />
                         첫 번째 다리
